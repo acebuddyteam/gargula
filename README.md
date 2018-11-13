@@ -21,7 +21,7 @@ This is for the mac terminal
 
 Installation: 
 
-Fork the repo to your local 
+Clone this repo  
 
 Open the ps1 file with your text editor, copy the code(read commentaries to add what you need)
 
