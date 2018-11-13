@@ -1,5 +1,5 @@
 # Gargula
-A clean PS1 config for your terminal to help you organize the work
+A clean PS1 config for your terminal to help you organize your work
 
 Gargula includes only important data for your PS1:
 
