@@ -10,7 +10,7 @@ Gargula includes only important data for your PS1:
 
 This example is using Dracula dark theme, if you like this theme just Google Dracula Terminal theme
 
-![](gargula-interface1.png) ![](gargula-interface2.png)
+![](gargula1.png) 
 
 This is for the mac terminal
 
