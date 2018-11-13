@@ -29,8 +29,10 @@ From the terminal open your .bash_profile, example atom ~/.bash_profile and past
 
 The code includes: 
 
-1- Git script to display master branch
+- Git script to display master branch
 
-2- The Gargula PS1 style
+- The Gargula PS1 style
 
-3- Full color config for your terminal
+- Full color config for your terminal
+
+Enjoy it!
