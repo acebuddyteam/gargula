@@ -12,9 +12,9 @@ Gargula includes only important data to display, to keep it simple and clean:
 - A nice arrow that indicates PS1 position
 
 NOTE:
-This example is using Dracula dark theme <br> 
-Gargula has nothing to be with the theme(set of colors). 
-If you like this theme just Google Dracula Terminal theme
+This example is using Dracula dark theme. <br> 
+Gargula has nothing to be with the theme(set of colors). <br> 
+If you like the theme used just Google Dracula Terminal theme
 
 ![](gargula1.png) 
 
