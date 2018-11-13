@@ -6,6 +6,8 @@ A clean PS1 config for your terminal to help you organize the work
 
 This is for the mac terminal
 
+![](gargula-interface2.png)
+
 Installation: 
 
 Fork the repo to your local 
