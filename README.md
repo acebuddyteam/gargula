@@ -4,7 +4,7 @@ The best things of life are small cute details, so here is Gargula!
 
 A minimalist Terminal interface for mac, to help you organize your work
 
-Gargula includes only important data to display, to keep it simple and clean:
+Gargula includes only important data, to keep it simple and clean:
 
 - Current directory
 - Git Branch (if Git has been intialized)
