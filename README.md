@@ -1,7 +1,10 @@
 # Gargula
+
+The best things of life are small cute details, so here is Gargula!
+
 A clean PS1 config for your terminal to help you organize your work
 
-Gargula includes only important data for your PS1:
+Gargula includes only important data for your PS1 to keep it simple and clean:
 
 - Current directory
 - Git Branch (if Git has been intialized)
