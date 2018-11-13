@@ -2,7 +2,7 @@
 
 The best things of life are small cute details, so here is Gargula!
 
-A minimalist PS1 config for your terminal to help you organize your work
+A minimalist Terminal interface to help you organize your work
 
 Gargula includes only important data to display, to keep it simple and clean:
 
