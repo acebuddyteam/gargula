@@ -2,7 +2,7 @@
 
 The best things of life are small cute details, so here is Gargula!
 
-A minimalist Terminal interface to help you organize your work
+A minimalist Terminal interface for mac, to help you organize your work
 
 Gargula includes only important data to display, to keep it simple and clean:
 
@@ -18,7 +18,6 @@ If you like the theme used just Google Dracula Terminal theme
 
 ![](gargula1.png) 
 
-This is for the mac terminal
 
 <h2>Installation: </h2>
 
