@@ -1,8 +1,16 @@
 # Gargula
+A clean PS1 config for your terminal to help you organize the work
+
+Gargula includes only important data for your PS1:
+
+- Current directory
+- Git Branch (if Git has been intialized)
+- Operation number
+- A nice arrow that indicates PS1 position
+
+This example is using Dracula dark theme, if you like this theme just Google Dracula Terminal theme
 
 ![](gargula-interface1.png)
-
-A clean PS1 config for your terminal to help you organize the work
 
 This is for the mac terminal
 
