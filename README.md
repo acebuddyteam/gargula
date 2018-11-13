@@ -20,7 +20,7 @@ If you like the theme used just Google Dracula Terminal theme
 
 This is for the mac terminal
 
-Installation: 
+<h2>Installation: </h2>
 
 Clone this repo  
 
