@@ -11,13 +11,13 @@ Gargula includes only important data, to keep it simple and clean:
 - Operation number
 - A nice arrow that indicates PS1 position
 
-<h6> <span style="text-align:right">NOTE:
-This example is using Dracula dark theme. <br> 
-Gargula has nothing to be with the theme(set of colors). <br> 
-If you like the theme used just Google Dracula Terminal theme. </span> </h6>
-
 ![](gargula1.png) 
 
+
+<h6> NOTE:
+This example is using Dracula dark theme. <br> 
+Gargula has nothing to be with the theme(set of colors). <br> 
+If you like the theme used just Google Dracula Terminal theme. </h6>
 
 <h2>Installation: </h2>
 
