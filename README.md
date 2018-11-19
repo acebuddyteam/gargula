@@ -41,4 +41,4 @@ The code includes:
 
 - Full color config for your terminal
 
-Enjoy it!
+<h3>Enjoy it!</h3>
