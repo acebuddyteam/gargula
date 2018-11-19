@@ -4,6 +4,12 @@ The best things of life are small cute details, so here is Gargula!
 
 A minimalist Terminal interface for mac, to help you organize your work
 
+<h2>Contributions:</h2>
+
+Any contribuition is more than welcome! <br> 
+Just contribute on a new branch "Development"
+
+
 Gargula includes only important data, to keep it simple and clean:
 
 - Current directory
