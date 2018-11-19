@@ -10,7 +10,7 @@ Any contribuition is more than welcome! <br>
 Just contribute on a new branch "Development"
 
 
-Gargula includes only important data, to keep it simple and clean:
+<h2>Gargula includes only important data, to keep it simple and clean:</h2>
 
 - Current directory
 - Git Branch (if Git has been intialized)
