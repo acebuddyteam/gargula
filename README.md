@@ -7,8 +7,8 @@ No date or time that you can check with your watch and so on...
 
 - Current directory
 - Git Branch (if Git has been intialized)
-- Git Status: 
-       something to commit = 𝘟 
+- Git Status:<br>
+       something to commit = 𝘟 <br>
        nothing to commit = ✓
 - Operation number
 
