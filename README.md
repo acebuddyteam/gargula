@@ -6,12 +6,14 @@ No date or time that you can check with your watch and so on...
 <h2>Gargula includes only the important data, to keep it simple and clean:</h2>
 
 - Current directory
-- Operation number
+
 - Git Branch (if Git has been intialized)
+
 - Git Status:<br>
        something to commit = 𝘟 <br>
        nothing to commit = ✓
 
+- Operation number
 
 A minimalist Terminal interface for mac, to help you organize your work
 
