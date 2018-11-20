@@ -36,4 +36,3 @@ export PS1="\[\e[0;32m\]➜\[\e[0m\]\[\$(check_status)\] "
 export CLICOLOR=1
 export LSCOLORS=fxfxBxDxgxegedabagacad
 alias ls='ls -GFh'
-cd /Users/al-mac/Desktop/gargula-tests
