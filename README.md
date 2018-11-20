@@ -37,6 +37,8 @@ The code includes:
 
 - Git script to display master branch
 
+- Git script to diplay commit status
+
 - The Gargula PS1 style
 
 - Full color config for your terminal
