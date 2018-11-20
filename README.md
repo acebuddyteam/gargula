@@ -1,6 +1,6 @@
 # Gargula
 
-Gargula is a clean user interface for the Terminal with useful info
+Gargula is a clean user interface for the Terminal with useful info <br>
 No date or time that you can check with your watch and so on...
 
 <h2>Gargula includes only the important data, to keep it simple and clean:</h2>
