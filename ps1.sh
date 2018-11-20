@@ -26,7 +26,8 @@ if git rev-parse --git-dir > /dev/null 2>&1; then
 }
 
 
-# Git branch in prompt.
+# Git branch 
+
 parse_git_branch() {
     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
