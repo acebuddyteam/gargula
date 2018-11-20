@@ -7,7 +7,7 @@ No date or time that you can check with your watch and so on...
 
 - Current directory
 - Git Branch (if Git has been intialized)
-- Git Status: something to commit = 𝘟 and nothing to commit = ✓
+- Git Status: something to commit = 𝘟   and   nothing to commit = ✓
 - Operation number
 
 A minimalist Terminal interface for mac, to help you organize your work
