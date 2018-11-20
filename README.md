@@ -1,6 +1,14 @@
 # Gargula
 
-Gargula is a clean and useful interface for the Terminal
+Gargula is a clean user interface for the Terminal with useful info
+No date or time that you can check with your watch and so on...
+
+<h2>Gargula includes only the important data, to keep it simple and clean:</h2>
+
+- Current directory
+- Git Branch (if Git has been intialized)
+- Git Status: something to commit = 𝘟 and nothing to commit = ✓
+- Operation number
 
 A minimalist Terminal interface for mac, to help you organize your work
 
@@ -8,14 +16,6 @@ A minimalist Terminal interface for mac, to help you organize your work
 
 Any contribuition is more than welcome! <br> 
 Just contribute on a new branch "Development"
-
-
-<h2>Gargula includes only important data, to keep it simple and clean:</h2>
-
-- Current directory
-- Git Branch (if Git has been intialized)
-- Git Status: something to commit = 𝘟 and nothing to commit = ✓
-- Operation number
 
 ![](gargula.png) 
 
