@@ -17,7 +17,7 @@ Just contribute on a new branch "Development"
 - Git Status: commit = 1  no commit = 0
 - Operation number
 
-![](gargula1.png) 
+![](gargula.png) 
 
 <h6> NOTE:
 This example is using Dracula dark theme. <br> 
