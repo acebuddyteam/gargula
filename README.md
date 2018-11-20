@@ -14,7 +14,7 @@ Just contribute on a new branch "Development"
 
 - Current directory
 - Git Branch (if Git has been intialized)
-- Git Status: <h4>something to commit = 𝘟  nothing to commit = ✓</h4>
+- Git Status: something to commit = 𝘟 and nothing to commit = ✓
 - Operation number
 
 ![](gargula.png) 
