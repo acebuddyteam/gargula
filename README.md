@@ -1,6 +1,6 @@
 # Gargula
 
-The best things of life are small cute details, so here is Gargula!
+Gargula is a clean and useful interface for the Terminal
 
 A minimalist Terminal interface for mac, to help you organize your work
 
@@ -14,7 +14,7 @@ Just contribute on a new branch "Development"
 
 - Current directory
 - Git Branch (if Git has been intialized)
-- Git Status: commit = 1  no commit = 0
+- Git Status: <h4>something to commit = 𝘟  nothing to commit = ✓</h4>
 - Operation number
 
 ![](gargula.png) 
