@@ -14,8 +14,8 @@ Just contribute on a new branch "Development"
 
 - Current directory
 - Git Branch (if Git has been intialized)
+- Git Status (commit = 1 | nothing to commit = 0 )
 - Operation number
-- A nice arrow that indicates PS1 position
 
 ![](gargula1.png) 
 
