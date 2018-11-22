@@ -1,8 +1,8 @@
 # (´･･`) Gargula
 
-Gargula provides you information for the Git status, Git branch and more
+Gargula display information for Git status, Git branch and more color to the terminal
 
-<h2>Gargula includes only the important data, simple and clean:</h2>
+<h2>Gargula includes only the important data for the ps1:</h2>
 
 - Current directory
 
