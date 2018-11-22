@@ -1,4 +1,4 @@
-# Gargula
+#  Gargula
 
 Gargula display information for Git status, Git branch and more color to the terminal
 
