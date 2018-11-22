@@ -1,6 +1,6 @@
 #  Gargula
 
-Gargula display information for Git status, Git branch and more color to the terminal
+Gargula display, Git status, Git branch and more color to the terminal
 
 <h2>Gargula includes only the important data for the ps1:</h2>
 
