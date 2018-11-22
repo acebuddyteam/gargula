@@ -1,4 +1,4 @@
-# Gargula
+# <h3> (´･･`) </h3> Gargula
 
 Gargula provides you information for the Git status, Git branch and more
 
