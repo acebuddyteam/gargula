@@ -1,5 +1,7 @@
 # (´･･`) Gargula
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 Gargula provides you information for the Git status, Git branch and more
 
 <h2>Gargula includes only the important data, simple and clean:</h2>
