@@ -7,14 +7,14 @@ green=$(tput setaf 2)
 
 boshka= git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/' > /dev/null 2>&1
 
-
+# assets 𝘟 ✗ Ӽ 𝘟 𝞦 ✔ ✓ 
 # Checks if something to commit or not
 if git rev-parse --git-dir > /dev/null 2>&1; then
     if ! git status | grep "nothing to commit" > /dev/null 2>&1; then
-      echo "${red} 𝘟"
+      echo "${red} 𝞦"
       return 0
     elif $boshka; then
-        echo "${green} ✓"
+        echo "${green} ✔"
     fi
 fi
 
@@ -32,7 +32,7 @@ check_branch() {
 
 export PS1="\[\e[0;32m\]➜\[\e[0m\]\[\$(check_status)\] "
        PS1+="\[$(tput sgr0)\]\[\e[1;34m\]\W\[\e[0m\]"
-       PS1+="\[\e[0;36m\]\$(check_branch)\[\e[0m\]\n    \[$(tput sgr0)\]"
+       PS1+="\[\e[0;36m\]\$(check_branch):\[\e[0m\]\n    \[$(tput sgr0)\]"
        PS1+="\[\e[0;33m\]\#:\[\e[0m\]\[$(tput sgr0)\]\[\e[1;37m\] "
 
 export CLICOLOR=1
