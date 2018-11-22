@@ -32,7 +32,7 @@ check_branch() {
 
 export PS1="\[\e[0;32m\]➜\[\e[0m\]\[\$(check_status)\] "
        PS1+="\[$(tput sgr0)\]\[\e[1;34m\]\W\[\e[0m\]"
-       PS1+="\[\e[0;36m\]\$(check_branch): \[\e[0m\]\n    \[$(tput sgr0)\]"
+       PS1+="\[\e[0;36m\]\$(check_branch)\[\e[0m\]\n    \[$(tput sgr0)\]"
        PS1+="\[\e[0;33m\]\#:\[\e[0m\]\[$(tput sgr0)\]\[\e[1;37m\] "
 
 export CLICOLOR=1
