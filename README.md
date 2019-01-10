@@ -1,4 +1,4 @@
-![](logo.png) 
+![](logo.png =300x200) 
 #  Gargula
 
 Gargula display, Git status, Git branch and more color to the terminal
