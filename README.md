@@ -3,6 +3,8 @@
 
 Gargula display, Git status, Git branch and more color to the terminal
 
+<h2>It works with hyper terminal and the native terminal</h2>
+
 <h2>Gargula includes only the important data for the ps1:</h2>
 
 - Current directory
