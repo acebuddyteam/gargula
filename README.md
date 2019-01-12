@@ -22,7 +22,7 @@ A minimalist Terminal interface for mac, to help you organize your work
 Any contribuition is more than welcome! <br> 
 Just contribute on a new branch "Development"
 
-![](gargula-on-action.png) 
+![](gargula-terminal.png) 
 
 <h6> NOTE:
 This example is using Dracula dark theme. <br> 
