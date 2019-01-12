@@ -1,3 +1,4 @@
+# assets 𝘟 ✗ Ӽ 𝘟 𝞦 ✔ ✓ ▲ ➜
 # Git status
 
 check_status() {
@@ -7,7 +8,7 @@ green=$(tput setaf 2)
 
 boshka= git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/' > /dev/null 2>&1
 
-# assets 𝘟 ✗ Ӽ 𝘟 𝞦 ✔ ✓ ▲ ➜
+
 # Checks if something to commit or not
 if git rev-parse --git-dir > /dev/null 2>&1; then
     if ! git status | grep "nothing to commit" > /dev/null 2>&1; then
@@ -37,3 +38,5 @@ export PS1="\[\e[0;32m\]➜ \[\e[0m\]\[\$(check_status)\]"
 
 export CLICOLOR=1
 export LSCOLORS=fxfxBxDxgxegedabagacad
+
+
