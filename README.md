@@ -3,7 +3,9 @@
 
 Gargula display, Git status, Git branch and more color to the terminal
 
-<h2>It works with hyper terminal and the native terminal</h2>
+<h2>It works with:</h2>
+
+<h2>✔Hyper terminal ✔Native terminal</h2>
 
 <h2>Gargula display only the important data</h2>
 
