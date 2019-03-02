@@ -31,7 +31,7 @@ Just contribute on a new branch "Development"
 
 <h6> NOTE:
 This example is using Dracula dark theme. <br> 
-Gargula has nothing to be with the theme(set of colors). <br> 
+Gargula has nothing to be with the theme(colors and combination). <br> 
 If you like the theme used just Google Dracula Terminal theme. </h6>
 
 
