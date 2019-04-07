@@ -3,8 +3,6 @@
 
 Gargula display, Git status, Git branch and more color to the terminal
 
-Please don't forget to star the project 🤩❤️
-
 <h2>It works with:</h2>
 
 <h2>☑Hyper terminal</h2>
