@@ -27,7 +27,8 @@ A minimalist Terminal interface for mac, to help you organize your work
 Any contribuition is more than welcome! <br> 
 Just contribute on a new branch "Development"
 
-![](gargula-terminal.png) 
+![](gargula-terminal.png)
+![](easytofind.png)
 
 <h6> NOTE:
 This example is using Dracula dark theme. <br> 
