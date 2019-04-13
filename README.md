@@ -28,6 +28,9 @@ Any contribuition is more than welcome! <br>
 Just contribute on a new branch "Development"
 
 ![](gargula-terminal.png)
+
+<h2>Easy to find in a bunch of data</h2>
+
 ![](easytofind.png)
 
 <h6> NOTE:
