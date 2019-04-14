@@ -23,7 +23,8 @@ Gargula display, Git status, Git branch and more color to the terminal
 <h3>">A minimalist Terminal interface for mac, to help you organize your work</h3>
 
 ![](gargula-terminal.png)
-<br>
+</br>
+</br>
 <h3>Easy to find in a bunch of data</h3>
 
 ![](easytofind.png)
