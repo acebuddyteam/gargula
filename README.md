@@ -8,7 +8,7 @@ Gargula display, Git status, Git branch and more color to the terminal
 <h2>☑Hyper terminal</h2>
 <h2>☑Native terminal</h2>
 
-<h2>Gargula display only the important data</h2>
+<h3>Gargula display only the important data</h3>
 
 - Current directory
 
