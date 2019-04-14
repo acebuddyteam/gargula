@@ -29,7 +29,7 @@ Just contribute on a new branch "Development"
 
 ![](gargula-terminal.png)
 
-<h2>Easy to find in a bunch of data</h2>
+<h1>Easy to find in a bunch of data</h1>
 
 ![](easytofind.png)
 
