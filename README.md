@@ -20,7 +20,7 @@ Gargula display, Git status, Git branch and more color to the terminal
 
 - Easy to find the next line
 
-A minimalist Terminal interface for mac, to help you organize your work
+<p style="text-align: center">A minimalist Terminal interface for mac, to help you organize your work</p>
 
 ![](gargula-terminal.png)
 
