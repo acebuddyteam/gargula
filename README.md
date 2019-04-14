@@ -22,11 +22,6 @@ Gargula display, Git status, Git branch and more color to the terminal
 
 A minimalist Terminal interface for mac, to help you organize your work
 
-<h2>Contributions:</h2>
-
-Any contribuition is more than welcome! <br> 
-Just contribute on a new branch "Development"
-
 ![](gargula-terminal.png)
 
 <h3>Easy to find in a bunch of data</h3>
@@ -38,8 +33,12 @@ This example is using Dracula dark theme. <br>
 Gargula has nothing to be with the theme(colors and combination). <br> 
 If you like the theme used just Google Dracula Terminal theme. </h6>
 
+<h3>Contributions:</h3>
 
-<h2>Installation: </h2>
+Any contribuition is more than welcome! <br> 
+Just contribute on a new branch "Development"
+
+<h3>Installation: </h3>
 
 Clone this repo  
 
