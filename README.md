@@ -1,4 +1,4 @@
-![](gargula1.png) 
+![](gargular1.png) 
 #  Gargula
 
 Gargula display, Git status, Git branch and more color to the terminal
