@@ -4,10 +4,10 @@
 
 <h3>Gargula display, Git status, Git branch when git is initialized and more color to the terminal</h3>
 
-<h2>It works with:</h2>
+<h2>Works with:</h2>
 
-<h2>☑Hyper terminal</h2>
-<h2>☑Native terminal</h2>
+<h3>☑Hyper terminal</h3>
+<h3>☑Native terminal</h3>
 
 <h3>Gargula display only the important data</h3>
 
