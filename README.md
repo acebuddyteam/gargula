@@ -2,7 +2,7 @@
 <img src="gargula-logo.png" width="350px" height="200px" >
 
 
-Gargula display, Git status, Git branch and more color to the terminal
+<h3>Gargula display, Git status, Git branch when git is initialized and more color to the terminal</h3>
 
 <h2>It works with:</h2>
 
