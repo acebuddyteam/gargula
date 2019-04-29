@@ -1,5 +1,5 @@
 
-<img src="gargula-logo.png" width="500px" height="100px">
+<img src="gargula-logo.png" width="300px" height="200px">
 #  Gargula
 
 Gargula display, Git status, Git branch and more color to the terminal
