@@ -13,7 +13,7 @@
 
 - Current directory
 
-- Git Branch (if Git has been intialized)
+- Git Branch 
 
 - Git Status:<br>
        something to commit = 𝘟 <br>
