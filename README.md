@@ -1,5 +1,5 @@
 
-<img src="logogargula.png" width="350px" height="200px" >
+<img src="logogargula.png" width="500px" height="200px" >
 
 
 <h3>Gargula display, Git status, Git branch when git is initialized and more color to the terminal</h3>
