@@ -1,7 +1,7 @@
 
 <img src="logogargula.png" width="500px" height="200px" >
 
-
+<h1>A SUPER REABLE TERMINAL</h1>
 <h3>Gargula display, Git status, Git branch when git is initialized and more color to the terminal</h3>
 
 <h2>Works with:</h2>
