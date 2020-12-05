@@ -21,7 +21,7 @@
 
 - Easy to find the next line
 
-<h3>A minimalist Terminal interface for mac, to help you organize your work</h3>
+<h3>A minimalist Terminal interface for mac & linux, to help you organize your work</h3>
 
 ![](gargula-terminal.png)
 </br>
