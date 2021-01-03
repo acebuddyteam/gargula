@@ -44,9 +44,9 @@ Just contribute on a new branch "Development"
 
 Clone this repo  
 
-Open the ps1 file with your text editor, copy the code(read commentaries to add what you need)
+Open the gargula.sh file with your text editor, copy the code(read commentaries to add what you need)
 
-From the terminal open your .bash_profile, example atom ~/.bash_profile and paste the code 
+From the terminal open your .bash_profile, example code ~/.bash_profile and paste the code 
 
 The code includes: 
 
@@ -54,7 +54,7 @@ The code includes:
 
 - Git script to diplay commit status
 
-- The Gargula PS1 style
+- The Gargula PS1 styles (Inline-block by default and Inline styles)
 
 - Full color config for your terminal
 
