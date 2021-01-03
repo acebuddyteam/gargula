@@ -6,8 +6,8 @@
 
 <h2>Works with:</h2>
 
-<h3>☑Hyper terminal</h3>
-<h3>☑Native terminal</h3>
+<h3>☑ Hyper terminal</h3>
+<h3>☑ Native terminal</h3>
 
 <h3>Gargula display only the important data</h3>
 
