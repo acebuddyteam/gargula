@@ -15,7 +15,7 @@ if git rev-parse --git-dir > /dev/null 2>&1; then
       echo "${red} x "
       return 0
     elif $boshka; then
-        echo "${green} ✓ "
+        echo "${green} ✔ "
     fi
 fi
 
@@ -31,10 +31,22 @@ check_branch() {
 # PS1 is similar to html tags but with color the tag starts like:
 # \[\e[0;32m] bla bla \[\e[0m\] 0;32 is color green, space is \[$(tput sgr0)\], \W current dir
 
+
+# **********In-line block style interface**********
+
 export PS1="\[\e[0;32m\]➜ \[\e[0m\]\[\$(check_status)\]"
        PS1+="\[$(tput sgr0)\]\[\e[1;34m\]\W\[\e[0m\]"
        PS1+="\[\e[0;36m\]\$(check_branch)\[\e[0m\]\n    \[$(tput sgr0)\]"
        PS1+="\[\e[0;33m\] ▲ =\[\e[0m\]\[$(tput sgr0)\]\[\e[1;37m\] "
+
+
+# **********In-line style interface**********
+
+# export PS1="\[\e[0;32m\]➜ \[\e[0m\]\[\$(check_status)\]"
+#        PS1+="\[$(tput sgr0)\]\[\e[1;34m\]\W\[\e[0m\]"
+#        PS1+="\[\e[0;36m\]\$(check_branch)\[\e[0m\] \[$(tput sgr0)\]"
+#        PS1+="\[\e[0;33m\] ▲ =\[\e[0m\]\[$(tput sgr0)\]\[\e[1;37m\] "
+
 
 export CLICOLOR=1
 export LSCOLORS=fxfxBxDxgxegedabagacad
