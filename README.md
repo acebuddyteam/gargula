@@ -26,8 +26,7 @@
 ![](gargula-terminal.png)
 </br>
 </br>
-<h3>Easy to find in a bunch of data</h3>
-
+<h3>Easy to find on a bunch of data</h3>
 ![](easytofind.png)
 
 <h6> NOTE:
