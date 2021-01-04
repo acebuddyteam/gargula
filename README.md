@@ -42,14 +42,17 @@ Just contribute on a new branch "Development"
 
 <h3>Installation: </h3>
 ```
+
+```
 git clone https://github.com/stackkteam/gargula.git
 
 cd minimal-terminal-prompt
 
 cat gargula.sh  >> ~/.bashrc
 
-source ~/.bash_profile
+source ~/.bashrc
 ```
+
 
 The code includes: 
 
