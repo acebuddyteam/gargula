@@ -28,8 +28,6 @@
 </br>
 <h3>Easy to find on a bunch of data</h3>
 
-![](easytofind.png)
-
 <h6> NOTE:
 This example is using Dracula dark theme. <br> 
 Gargula has nothing to be with the theme(colors and combination). <br> 
