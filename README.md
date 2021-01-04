@@ -41,12 +41,15 @@ Any contribuition is more than welcome! <br>
 Just contribute on a new branch "Development"
 
 <h3>Installation: </h3>
+```
+git clone https://github.com/stackkteam/gargula.git
 
-Clone this repo  
+cd minimal-terminal-prompt
 
-Open the gargula.sh file with your text editor, copy the code(read commentaries to add what you need)
+cat gargula.sh  >> ~/.bashrc
 
-From the terminal open your .bash_profile, example code ~/.bash_profile and paste the code 
+source ~/.bash_profile
+```
 
 The code includes: 
 
