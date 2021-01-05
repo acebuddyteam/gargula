@@ -44,7 +44,7 @@ Just contribute on a new branch "Development"
 ```
 git clone https://github.com/stackkteam/gargula.git
 
-cd minimal-terminal-prompt
+cd gargula
 
 cat gargula.sh  >> ~/.bashrc
 
