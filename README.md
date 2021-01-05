@@ -56,7 +56,7 @@ The code includes:
 
 - Git script to display master branch
 
-- Git script to diplay commit status
+- Git script to display commit status
 
 - The Gargula PS1 styles (Inline-block by default and Inline styles)
 
