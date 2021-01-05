@@ -39,7 +39,7 @@ Any contribuition is more than welcome! <br>
 Just contribute on a new branch "Development"
 
 <h3>Installation: </h3>
-```
+
 
 ```
 git clone https://github.com/stackkteam/gargula.git
