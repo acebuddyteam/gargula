@@ -23,8 +23,7 @@
 
 <h3>A minimalist Terminal interface for mac & linux, to help you organize your work</h3>
 
-![](gargula-terminal.png)
-<img src="https://raw.githubusercontent.com/acebuddyteam/gargula/master/gargula-terminal.png" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/acebuddyteam/gargula/master/gargula-terminal.png" width=100% height=100%>
 </br>
 </br>
 <h3>Easy to find on a bunch of data</h3>
