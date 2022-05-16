@@ -42,7 +42,7 @@ Just contribute on a new branch "Development"
 
 
 ```bash
-git clone https://github.com/stackkteam/gargula.git
+git clone https://github.com/acebuddyteam/gargula.git
 
 cd gargula
 
